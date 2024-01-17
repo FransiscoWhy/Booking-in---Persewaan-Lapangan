@@ -1,4 +1,4 @@
-## Lakukan Indtalasi Node module
+## Lakukan Instalasi Node module
   npm install
 ## Run Program
 - Untuk Andorid Studio
